@@ -1,0 +1,20 @@
+footer{
+	background-color: #FFBB33;
+  	padding: 100px 0;
+}
+
+.content-admin{
+	background-color: #FF8800;
+}
+
+i.service-icon {
+border: 3px solid #333333;
+border-radius: 50%;
+display: inline-block;
+font-size: 56px;
+width: 140px;
+height: 140px;
+line-height: 136px;
+vertical-align: middle;
+text-align: center;
+}
